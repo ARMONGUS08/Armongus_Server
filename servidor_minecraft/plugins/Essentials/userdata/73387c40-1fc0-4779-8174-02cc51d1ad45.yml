@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.189.178.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1748072296675
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748074437972
+  login: 1748074260224
+money: '0'
+last-account-name: ARMONGUS
+logoutlocation:
+  world: f14249d9-fd98-472b-8198-0a1aafde8b8a
+  world-name: SigmaLand
+  x: -86.11394536609146
+  y: 63.0
+  z: -62.77374076324319
+  yaw: 172.65625
+  pitch: 29.850370407104492
+homes:
+  home:
+    world: f14249d9-fd98-472b-8198-0a1aafde8b8a
+    world-name: SigmaLand
+    x: -121.32253222832678
+    y: 63.0
+    z: -119.56915366183517
+    yaw: -40.8055419921875
+    pitch: 33.15007400512695
+lastlocation:
+  world: f14249d9-fd98-472b-8198-0a1aafde8b8a
+  world-name: SigmaLand
+  x: -122.86885280852539
+  y: 63.0
+  z: -106.05471244443407
+  yaw: -12.905303955078125
+  pitch: 20.400123596191406
