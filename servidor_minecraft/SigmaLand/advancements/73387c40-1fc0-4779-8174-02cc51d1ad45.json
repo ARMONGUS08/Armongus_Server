@@ -730,7 +730,8 @@
       "minecraft:skeleton": "2025-05-23 23:47:42 +0000",
       "minecraft:spider": "2025-05-23 23:36:00 +0000",
       "minecraft:zombie": "2025-05-24 00:00:33 +0000",
-      "minecraft:creeper": "2025-05-24 00:10:07 +0000"
+      "minecraft:creeper": "2025-05-24 00:10:07 +0000",
+      "minecraft:zombie_villager": "2025-05-24 11:39:34 +0000"
     },
     "done": false
   },
@@ -1827,5 +1828,41 @@
     },
     "done": true
   },
-  "DataVersion": 3955
+  "craemon:craftable_nametag": {
+    "criteria": {
+      "tick": "2025-05-24 11:44:50 +0000"
+    },
+    "done": true
+  },
+  "craemon:crafting": {
+    "criteria": {
+      "tick": "2025-05-24 11:44:50 +0000"
+    },
+    "done": true
+  },
+  "craemon:main": {
+    "criteria": {
+      "tick": "2025-05-24 11:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-24 11:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-24 21:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-24 21:06:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4080
 }

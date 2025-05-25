@@ -1,6 +1,29 @@
-[11:02:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[11:02:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[11:02:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[11:02:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[11:02:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - Essentials (2.21.0)
+[08:52:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:52:43] [ServerMain/INFO]: Loaded 1338 recipes
+[08:52:43] [ServerMain/INFO]: Loaded 1451 advancements
+[08:52:43] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[08:52:43] [Server thread/INFO]: Loading properties
+[08:52:43] [Server thread/INFO]: Default game type: SURVIVAL
+[08:52:43] [Server thread/INFO]: Generating keypair
+[08:52:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:52:44] [Server thread/INFO]: Using epoll channel type
+[08:52:44] [Server thread/INFO]: Preparing level "SigmaLand"
+[08:52:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:52:52] [Server thread/INFO]: Time elapsed: 7900 ms
+[08:52:52] [Server thread/INFO]: Done (8.436s)! For help, type "help"
